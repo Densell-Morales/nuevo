@@ -96,6 +96,7 @@ int main() {
                     cout << frt_solas[i] << ": " << conteo[i] << endl;}
           break; }
           cout << "hola";
+        cout << "1";
 
     } return 0;
 }
